@@ -1,4 +1,4 @@
-<h1>Dutch Geocoin 2021</h1>
+title: "Dutch Geocoin 2021"
 	
 <!-- Title -->
 Dutch Geocoin 2021 Event
