@@ -3,7 +3,7 @@ title: "Dutch Geocoin 2021"
 page.title: "DGC 2021"
 ---	
 <!-- Title -->
-<h1>Dutch Geocoin 2021 Event</h1>
+#Dutch Geocoin 2021
 
 <!-- Short Description -->
 <h2>Help mee met de Dutch Geocoin 2021!</h2>
