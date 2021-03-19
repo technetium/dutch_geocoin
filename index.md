@@ -144,3 +144,19 @@ We hopen dit jaar de munt weer op een evenement te kunnen presenteren.
     Op de voorzijde een vrouw die met haar geohuahua opzoek is naar de geocacing,
     En op de achterkant zie je blij met de gevonden amobox.
 </p>
+
+<h3>10: Tien jaar Geocaching in Nederland</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/20jaar-voor.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/20jaar-achter.png" height="320">
+</p>
+<p>
+De coin heeft twee thema’s die een connectie hebben.<br />
+<br />
+Op de eerste “Nederlandse” zijde wordt aandacht besteed aan Amsterdam, met name het Vondelpark met cache symbool waar de oudste cache van Nederland te vinden is. Deze bestaat dit jaar ook 20 jaar. De cache gegevens en plaatsing datum worden genoemd in de rand van de coin.<br />
+<br />
+Verder een plattegrond van de grachten en wegen van het oudste gedeelte van Amsterdam, met bezienswaardigheden dit door middel van silhouetten van de Montelbaans-toren uit 1516, het Paleis op de Dam dat tussen 1648 en 1665 gebouwd is als stadhuis en een woning met klokgevel.<br />
+<br />
+Op de tweede "Wereld" zijde afgebeeld alle icoontjes van activiteiten die gedaan konden en kunnen worden tijdens het uitoefenen van onze hobby. De coin heeft 7 hoeken wat de werelddelen of continenten symboliseert, deze zijn benoemd in de rand van de coin, dit op een groene achtergrond dat het buitenleven symboliseert. Tevens de tekst “Geocachen rond de wereld”. Hiermee wordt benoemd dat je met het zoeken en vinden van caches de hele wereld rond kan omdat overal wel caches te vinden zijn. 
+</p>
+
