@@ -145,10 +145,10 @@ We hopen dit jaar de munt weer op een evenement te kunnen presenteren.
     En op de achterkant zie je blij met de gevonden amobox.
 </p>
 
-<h3>10: Tien jaar Geocaching in Nederland</h3>
+<h3>20: Twintig jaar Geocaching in Nederland</h3>
 <p>
-<img src="https://technetium.github.io/dutch_geocoin/2021/20jaar-voor.png" height="320">
-<img src="https://technetium.github.io/dutch_geocoin/2021/20jaar-achter.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/20jaar-voor2.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/20jaar-achter2.png" height="320">
 </p>
 <p>
 De coin heeft twee thema’s die een connectie hebben.<br />
