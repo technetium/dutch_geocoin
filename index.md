@@ -3,7 +3,7 @@ title: "Dutch Geocoin 2021"
 page.title: "DGC 2021"
 ---	
 <!-- Title -->
-#Dutch Geocoin 2021
+# Dutch Geocoin 2021
 
 <!-- Short Description -->
 <h2>Help mee met de Dutch Geocoin 2021!</h2>
@@ -160,3 +160,12 @@ Verder een plattegrond van de grachten en wegen van het oudste gedeelte van Amst
 Op de tweede "Wereld" zijde afgebeeld alle icoontjes van activiteiten die gedaan konden en kunnen worden tijdens het uitoefenen van onze hobby. De coin heeft 7 hoeken wat de werelddelen of continenten symboliseert, deze zijn benoemd in de rand van de coin, dit op een groene achtergrond dat het buitenleven symboliseert. Tevens de tekst “Geocachen rond de wereld”. Hiermee wordt benoemd dat je met het zoeken en vinden van caches de hele wereld rond kan omdat overal wel caches te vinden zijn. 
 </p>
 
+<h3>AD: 100e sterfjaar van de Nederlandse componist Alphons Diepenbrock</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/diepenbrock.png" height="320">
+</p>
+<p>
+De voorkant staat een portret van <a href="https://www.kvnm.nl/nl/Nieuws/2021:-Alphons-Diepenbrock">Diepenbrock</a> op, naar een schilderij van de Nederlandse schilder Jan Toorop uit 1900. de Nederlandse driekleur is rode, witte en blauwe glitterverf en de achtergrond heeft een soort sepia-achtige kleur (zelfde als de kleur van het papier van het portret door Toorop. De scheidingslijnen zijn zwart, maar zilver is hier mogelijk ook mooi.<br />
+<br />	
+Op de achterkant staat een citaat van Diepenbrock uit 1920. de achtergrondkleur is weer die sepia-achtige kleur en de letters zijn zwart. de randen (het grijs) is metallic (dus ongeverfde munt). de letters, lijnen en muzieknoten zijn zwart, maar mogelijk zijn ongekleurde letters, randen, lijnen en muzieknoten ook mooi (dus gewoon de ongeverfde coin-kleur).
+</p>
