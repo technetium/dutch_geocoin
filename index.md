@@ -110,7 +110,7 @@ De munt die de verkiezing wint zal in samenwerking met
 We hopen dit jaar de munt weer op een evenement te kunnen presenteren.
 </p>
 
-
+<h2>De ontwerpen</h2>
 
 <h3>KK: Klompen Klok</h3>
 <p>
