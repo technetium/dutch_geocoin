@@ -169,3 +169,16 @@ De voorkant staat een portret van <a href="https://www.kvnm.nl/nl/Nieuws/2021:-A
 <br />	
 Op de achterkant staat een citaat van Diepenbrock uit 1920. de achtergrondkleur is weer die sepia-achtige kleur en de letters zijn zwart. de randen (het grijs) is metallic (dus ongeverfde munt). de letters, lijnen en muzieknoten zijn zwart, maar mogelijk zijn ongekleurde letters, randen, lijnen en muzieknoten ook mooi (dus gewoon de ongeverfde coin-kleur).
 </p>
+
+<h3>WH: 100ste geboortedag W.F. Hermans</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/hermans-voor.jpg" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/hermans-achter.jpg" height="320">
+</p>
+<p>
+Een munt over Willem Frederik Hermans, die in 1921 is geboren en een van de grootste drie schrijvers van NL is (geweest). De uitspraak is van Hermans zelf, in het tijdschrift HP in 1980. De uitspraak past bij deze tijd van corona, zowel bij de virusontkenners als bij de normaal denkende mensen, zonder partij te kiezen.
+</p>
+<p>
+Voor en achter bronzen afbeeldingen van het hoofd van hermans. De hele munt is 1 kleur: brons, zilver of een andere kleur, maar in ieder geval 1 kleur. de letters zijn nu zwart, maar moeten ook diezelfde kleur zijn en verheven.
+</p>
+
