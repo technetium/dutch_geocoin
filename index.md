@@ -199,3 +199,9 @@ Voor en achter bronzen afbeeldingen van het hoofd van hermans. De hele munt is 1
 <img src="https://technetium.github.io/dutch_geocoin/2021/hugo-postzegel.bmp" height="320">
 </p>
 
+<h3>HB: Hugo de Groot boekenkist</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/hugo-kist.jpg" height="320">
+</p>
+
+
