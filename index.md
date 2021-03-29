@@ -184,13 +184,13 @@ Voor en achter bronzen afbeeldingen van het hoofd van hermans. De hele munt is 1
 
 <h3>ST: Steampunk Tulp</h3>
 <p>
-<img src="https://technetium.github.io/dutch_geocoin/2021/steampunk-voor.png" height="320">
-<img src="https://technetium.github.io/dutch_geocoin/2021/steampunk-achter.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/steampunk-voor.jpeg" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/steampunk-achter.jpeg" height="320">
 </p>
 
 <h3>TT: Tulp op oud hollands tegeltje</h3>
 <p>
-<img src="https://technetium.github.io/dutch_geocoin/2021/tegeltulp-voor.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/tegeltulp-voor.jpeg" height="320">
 <img src="https://technetium.github.io/dutch_geocoin/2021/tegeltulp-achter.png" height="320">
 </p>
 
