@@ -219,7 +219,7 @@ nederlands boertje en boerinnetje met een moderne twist (de GPS) die aan het Geo
 <h3>HJ: Hugo de Groot Jaar</h3>
 <p>
 <img src="https://technetium.github.io/dutch_geocoin/2021/hugo_de_groot-voor.jpg" height="320">
-<img src="https://technetium.github.io/dutch_geocoin/2021/hugo_de_groot-achter.jpgeight="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/hugo_de_groot_achter.jpg" height="320">
 </p>
 
 
