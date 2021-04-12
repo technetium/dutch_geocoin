@@ -163,7 +163,7 @@ Op de tweede "Wereld" zijde afgebeeld alle icoontjes van activiteiten die gedaan
 <h3>AD: 100e sterfjaar van de Nederlandse componist Alphons Diepenbrock</h3>
 <p>
 <img src="https://technetium.github.io/dutch_geocoin/2021/diepenbrock3voor.png" height="320">
-<img src="https://technetium.github.io/dutch_geocoin/2021/diepenbrock3achter.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/diepenborck3achter.png" height="320">
 </p>
 <p>
 De voorkant staat een portret van <a href="https://www.kvnm.nl/nl/Nieuws/2021:-Alphons-Diepenbrock">Diepenbrock</a> op, naar een schilderij van de Nederlandse schilder Jan Toorop uit 1900. de Nederlandse driekleur is rode, witte en blauwe glitterverf en de achtergrond heeft een soort sepia-achtige kleur (zelfde als de kleur van het papier van het portret door Toorop. De scheidingslijnen zijn zwart, maar zilver is hier mogelijk ook mooi.<br />
