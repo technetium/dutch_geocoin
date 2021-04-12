@@ -205,4 +205,11 @@ Voor en achter bronzen afbeeldingen van het hoofd van hermans. De hele munt is 1
 <img src="https://technetium.github.io/dutch_geocoin/2021/hugo-kist.jpg" height="320">
 </p>
 
+<h3>GH: Geocaching in Holland</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/geocaching_in_holland-voor.jpeg" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/geocaching_in_holland-achter.png" height="320">
+</p>
+
+
 
