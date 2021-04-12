@@ -210,6 +210,11 @@ Voor en achter bronzen afbeeldingen van het hoofd van hermans. De hele munt is 1
 <img src="https://technetium.github.io/dutch_geocoin/2021/geocaching_in_holland-voor.png" height="320">
 <img src="https://technetium.github.io/dutch_geocoin/2021/geocaching_in_holland-achter.png" height="320">
 </p>
+<p>
+Aan de ene kant Nederland met op de achtergrond de Nederlandse vlag ter ere van 20 jaar geocachen in nederland.
+	<br><br>
+Aan de andere kant een boerenbont tegel/bordje met een
+nederlands boertje en boerinnetje met een moderne twist (de GPS) die aan het Geocachen zijn.
 
 
 
