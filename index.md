@@ -212,9 +212,15 @@ Voor en achter bronzen afbeeldingen van het hoofd van hermans. De hele munt is 1
 </p>
 <p>
 Aan de ene kant Nederland met op de achtergrond de Nederlandse vlag ter ere van 20 jaar geocachen in nederland.
-	<br><br>
+<br><br>
 Aan de andere kant een boerenbont tegel/bordje met een
 nederlands boertje en boerinnetje met een moderne twist (de GPS) die aan het Geocachen zijn.
+
+<h3>HJ: Hugo de Groot Jaar</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/hugo_de_groot-voor.jpg" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/hugo_de_groot-achter.jpgeight="320">
+</p>
 
 
 
