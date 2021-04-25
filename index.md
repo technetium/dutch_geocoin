@@ -162,7 +162,8 @@ Op de tweede "Wereld" zijde afgebeeld alle icoontjes van activiteiten die gedaan
 
 <h3>AD: 100e sterfjaar van de Nederlandse componist Alphons Diepenbrock</h3>
 <p>
-<img src="https://technetium.github.io/dutch_geocoin/2021/diepenbrock2.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/diepenbrock3voor.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/diepenborck3achter.png" height="320">
 </p>
 <p>
 De voorkant staat een portret van <a href="https://www.kvnm.nl/nl/Nieuws/2021:-Alphons-Diepenbrock">Diepenbrock</a> op, naar een schilderij van de Nederlandse schilder Jan Toorop uit 1900. de Nederlandse driekleur is rode, witte en blauwe glitterverf en de achtergrond heeft een soort sepia-achtige kleur (zelfde als de kleur van het papier van het portret door Toorop. De scheidingslijnen zijn zwart, maar zilver is hier mogelijk ook mooi.<br />
@@ -203,5 +204,23 @@ Voor en achter bronzen afbeeldingen van het hoofd van hermans. De hele munt is 1
 <p>
 <img src="https://technetium.github.io/dutch_geocoin/2021/hugo-kist.jpg" height="320">
 </p>
+
+<h3>GH: Geocaching in Holland</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/geocaching_in_holland-voor.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/geocaching_in_holland-achter.png" height="320">
+</p>
+<p>
+Aan de ene kant Nederland met op de achtergrond de Nederlandse vlag ter ere van 20 jaar geocachen in nederland.
+<br><br>
+Aan de andere kant een boerenbont tegel/bordje met een
+nederlands boertje en boerinnetje met een moderne twist (de GPS) die aan het Geocachen zijn.
+
+<h3>HJ: Hugo de Groot Jaar</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/hugo_de_groot-voor.jpg" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/hugo_de_groot_achter.jpg" height="320">
+</p>
+
 
 
