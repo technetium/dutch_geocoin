@@ -223,4 +223,16 @@ nederlands boertje en boerinnetje met een moderne twist (de GPS) die aan het Geo
 </p>
 
 
+<h3>TS: Thirst Knows No Season</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/cocacola.jpeg" height="320">
+</p>
+<p>
+cartoonachtig, zwarte omlijning, 3D, glitters<br>
+1921:
+Het eerste nummer van het personeelsmagazine The Friendly Hand verschijnt.
+Drie jaar later wordt het vervangen door The Red Barrel, dat 40 jaar zou blijven bestaan.
+Met de introductie van de slagzin "Thirst Knows No Season" maakt Coca-Cola de overstam van een zomerdrankje naar een drankje voor het hele jaar.
+"The Pause that Refreshes"
+</p>
 
