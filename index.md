@@ -236,3 +236,23 @@ Met de introductie van de slagzin "Thirst Knows No Season" maakt Coca-Cola de ov
 "The Pause that Refreshes"
 </p>
 
+<h3>CF: CO2 Free</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/co2free-voor.jpg" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/co2free-achter.jpg" height="320">
+</p>
+<p>
+Het idee erachter deze DutchGeocoin is het verduurzamen van onze planeet, wat erg leeft in deze tijd.
+Omdat we het klimaat zelf grotendeels in handen hebben zou het mooi zijn dit in de vorm van een Coin te kunnen vertegenwoordigen, men kan de Geocoin dan zelf in de hand houden en zich 1 voelen met het idee achter deze coin.
+<br><br>
+De industrie moet over op alternatieve energie (links op de afbeelding)
+De alternatieve bronnen zoals zon en windenergie (Rechts op de afbeelding)
+Om klimaatverandering tegen te gaan zoals uitdroging van de aarde (links onder op de afbeelding)
+Om meer groen te krijgen (rechts onder op de afbeelding)
+In het midden van de afbeelding de mensheid, zij die het “probleem” hebben gecreëerd en nu de taak hebben niet te denken maar te doen.
+<br><br>
+De achterzijden van de Dutch Geocoin onze Nederlandse vlag waar we met zijn allen toch trots op zijn
+Wapperend in de wind, boven een mooi stukje duurzame energie.
+</p>
+
+
