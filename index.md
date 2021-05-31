@@ -255,4 +255,14 @@ De achterzijden van de Dutch Geocoin onze Nederlandse vlag waar we met zijn alle
 Wapperend in de wind, boven een mooi stukje duurzame energie.
 </p>
 
+<h3>C1: Covid Counter 1</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/covidcounter1-voor.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/covidcounter1-achter.png" height="320">
+</p>
 
+<h3>C1: Covid Counter 2</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/covidcounter2-voor.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/covidcounter2-achter.png" height="320">
+</p>
