@@ -270,6 +270,6 @@ Wapperend in de wind, boven een mooi stukje duurzame energie.
 
 <h3>4S: Covid Counter 2</h3>
 <p>
-<img src="https://technetium.github.io/dutch_geocoin/2021/vierseizienen.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/vierseizoenen.png" height="320">
 </p>
 
