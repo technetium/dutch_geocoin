@@ -268,8 +268,13 @@ Wapperend in de wind, boven een mooi stukje duurzame energie.
 <img src="https://technetium.github.io/dutch_geocoin/2021/covidcounter2-achter.png" height="320">
 </p>
 
-<h3>4S: Covid Counter 2</h3>
+<h3>4S: Vier Seizoenen</h3>
 <p>
 <img src="https://technetium.github.io/dutch_geocoin/2021/vierseizoenen.png" height="320">
 </p>
-
+De vier zeizoenen.
+Lente zomer herst winder.
+Pak je toos bij elkaar en geniet van het geocachen.
+<p>
+	
+</p>
