@@ -225,7 +225,8 @@ nederlands boertje en boerinnetje met een moderne twist (de GPS) die aan het Geo
 
 <h3>TS: Thirst Knows No Season</h3>
 <p>
-<img src="https://technetium.github.io/dutch_geocoin/2021/cocacola.jpeg" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/cocacola2-voor.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/cocacola2-achter.png" height="320">
 </p>
 <p>
 cartoonachtig, zwarte omlijning, 3D, glitters<br>
@@ -261,8 +262,14 @@ Wapperend in de wind, boven een mooi stukje duurzame energie.
 <img src="https://technetium.github.io/dutch_geocoin/2021/covidcounter1-achter.png" height="320">
 </p>
 
-<h3>C1: Covid Counter 2</h3>
+<h3>C2: Covid Counter 2</h3>
 <p>
 <img src="https://technetium.github.io/dutch_geocoin/2021/covidcounter2-voor.png" height="320">
 <img src="https://technetium.github.io/dutch_geocoin/2021/covidcounter2-achter.png" height="320">
 </p>
+
+<h3>4S: Covid Counter 2</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/vierseizienen.png" height="320">
+</p>
+
