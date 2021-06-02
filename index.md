@@ -5,6 +5,8 @@ page.title: "DGC 2021"
 <!-- Title -->
 # Dutch Geocoin 2021
 
+<div style="font:Noto Sans">
+
 <!-- Short Description -->
 <h2>Help mee met de Dutch Geocoin 2021!</h2>
 
@@ -111,7 +113,7 @@ We hopen dit jaar de munt weer op een evenement te kunnen presenteren.
 </p>
 
 <h2>De ontwerpen</h2>
-
+<div>
 <h3>KK: Klompen Klok</h3>
 <p>
 <img src="https://technetium.github.io/dutch_geocoin/2021/klompen-klok-voor.jpeg" height="320">
@@ -275,6 +277,6 @@ Wapperend in de wind, boven een mooi stukje duurzame energie.
 De vier zeizoenen.
 Lente zomer herst winder.
 Pak je toos bij elkaar en geniet van het geocachen.
-<p>
-	
 </p>
+<div>
+</div>
