@@ -113,7 +113,7 @@ We hopen dit jaar de munt weer op een evenement te kunnen presenteren.
 </p>
 
 <h2>De ontwerpen</h2>
-<div>
+<div style="width:720">
 <h3>KK: Klompen Klok</h3>
 <p>
 <img src="https://technetium.github.io/dutch_geocoin/2021/klompen-klok-voor.jpeg" height="320">
