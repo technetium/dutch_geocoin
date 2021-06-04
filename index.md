@@ -274,9 +274,10 @@ Wapperend in de wind, boven een mooi stukje duurzame energie.
 <p>
 <img src="https://technetium.github.io/dutch_geocoin/2021/vierseizoenen.png" height="320">
 </p>
-De vier zeizoenen.
+De vier seizoenen.
 Lente zomer herst winder.
 Pak je toos bij elkaar en geniet van het geocachen.
 </p>
+	<br><br>
 <div>
 </div>
