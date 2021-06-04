@@ -191,7 +191,7 @@ Voor en achter bronzen afbeeldingen van het hoofd van hermans. De hele munt is 1
 <img src="https://technetium.github.io/dutch_geocoin/2021/steampunk-achter.jpeg" height="320">
 </p>
 
-<h3>TT: Tulp op oud hollands tegeltje</h3>
+<h3>TT: Tulp op oud Hollands tegeltje</h3>
 <p>
 <img src="https://technetium.github.io/dutch_geocoin/2021/tegeltulp-voor.jpeg" height="320">
 <img src="https://technetium.github.io/dutch_geocoin/2021/tegeltulp-achter.png" height="320">
@@ -278,6 +278,6 @@ De vier seizoenen.
 Lente zomer herst winder.
 Pak je toos bij elkaar en geniet van het geocachen.
 </p>
-	<br><br>
+	<br>&nbsp;&nbsp;&nbsp;<br>
 <div>
 </div>
