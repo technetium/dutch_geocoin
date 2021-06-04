@@ -279,5 +279,5 @@ Lente zomer herst winder.
 Pak je toos bij elkaar en geniet van het geocachen.
 </p>
 	<br>&nbsp;&nbsp;&nbsp;<br>
-<div>
+</div>
 </div>
