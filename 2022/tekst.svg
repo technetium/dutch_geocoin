@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 1000">
+    <title></title>
+<defs>
+    <style>
+        text { 
+            font-size: 84px;
+            font-family: Trebuchet MS, Univers, Times-Roman;
+            _font-weight: 900; 
+            letter-spacing: 0px;
+        }
+    </style>
+	
+	<linearGradient id="myGradient" gradientTransform="rotate(60)">
+      <stop offset="20%" stop-color="gray" />
+      <stop offset="60%" stop-color="#eee" />
+      <stop offset="90%" stop-color="#ccc" />
+    </linearGradient>
+
+	<linearGradient id="flag" gradientTransform="rotate(35)">
+      <stop offset="42%" stop-color="red" />
+      <stop offset="42%" stop-color="white" />
+      <stop offset="200%" stop-color="white" />
+      <stop offset="200%" stop-color="blue" />
+    </linearGradient>
+
+
+	 <circle id="circle" cx="500" cy="500" r="500" filll="red" transform="scale(1,1)" />
+
+	<path id="arc1"	d="M 100 500 A 400 400 1 1 1 500 900" />
+	<path id="arc2"	d="M 100 500 A 400 400 0 0 0 900 500" />
+	
+</defs> 
+	<use x="0" y="0" href="#circle" fill="url('#myGradient')"  />
+	<_use href="#arc1" stroke="black" fill="green" stroke-width="2" fill-opacity="0.5"/>
+	<_use href="#arc2" stroke="black" fill="green" stroke-width="2" fill-opacity="0.5"/>
+
+	
+    <text dx="00" dy="-12"  transform="rotate(-11,500,500)"  textLength="1400">
+        <textPath xlink:href="#arc1" style="fill:yellow; stroke:gray">
+            1522 Eerste Nederlandse Paus Adrianus VI 
+        </textPath>
+	</text>
+    <text dx="00" dy="72"  transform="rotate(-43,500,500)"  textLength="650">
+        <textPath xlink:href="#arc2" fill="url('#flag')" stroke="gray">
+            Dutch Geocoin 2022 
+        </textPath>
+    </text>
+	<rect x="370" y="767" width="260" height="75" rx="15" stroke="#666" fill="#ccc" />
+	<text x="385" y="760" style="font-size:18px; fill:#666">trackable at geocaching.com</text>
+	<text x="385" y="825" style="font-size:48px; fill:#666">N L 2 0 2 2</text>
+
+  <image x="470" y="200" width="1097.2152" height="1384.3693" href="wapen.svg" transform="scale(.5, .5)"/>
+
+
+</svg>
+
+<!-- https://www.rijksmuseum.nl/nl/collectie/RP-P-1890-A-15266 -->
