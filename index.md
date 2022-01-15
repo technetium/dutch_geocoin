@@ -5,6 +5,8 @@ page.title: "DGC 2021"
 <!-- Title -->
 # Dutch Geocoin 2021
 
+<div style="font:Noto Sans">
+
 <!-- Short Description -->
 <h2>Help mee met de Dutch Geocoin 2021!</h2>
 
@@ -111,7 +113,7 @@ We hopen dit jaar de munt weer op een evenement te kunnen presenteren.
 </p>
 
 <h2>De ontwerpen</h2>
-
+<div style="width:720px">
 <h3>KK: Klompen Klok</h3>
 <p>
 <img src="https://technetium.github.io/dutch_geocoin/2021/klompen-klok-voor.jpeg" height="320">
@@ -189,7 +191,7 @@ Voor en achter bronzen afbeeldingen van het hoofd van hermans. De hele munt is 1
 <img src="https://technetium.github.io/dutch_geocoin/2021/steampunk-achter.jpeg" height="320">
 </p>
 
-<h3>TT: Tulp op oud hollands tegeltje</h3>
+<h3>TT: Tulp op oud Hollands tegeltje</h3>
 <p>
 <img src="https://technetium.github.io/dutch_geocoin/2021/tegeltulp-voor.jpeg" height="320">
 <img src="https://technetium.github.io/dutch_geocoin/2021/tegeltulp-achter.png" height="320">
@@ -223,4 +225,59 @@ nederlands boertje en boerinnetje met een moderne twist (de GPS) die aan het Geo
 </p>
 
 
+<h3>TS: Thirst Knows No Season</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/cocacola2-voor.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/cocacola2-achter.png" height="320">
+</p>
+<p>
+cartoonachtig, zwarte omlijning, 3D, glitters<br>
+1921:
+Het eerste nummer van het personeelsmagazine The Friendly Hand verschijnt.
+Drie jaar later wordt het vervangen door The Red Barrel, dat 40 jaar zou blijven bestaan.
+Met de introductie van de slagzin "Thirst Knows No Season" maakt Coca-Cola de overstam van een zomerdrankje naar een drankje voor het hele jaar.
+"The Pause that Refreshes"
+</p>
 
+<h3>CF: CO2 Free</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/co2free-voor.jpg" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/co2free-achter.jpg" height="320">
+</p>
+<p>
+Het idee erachter deze DutchGeocoin is het verduurzamen van onze planeet, wat erg leeft in deze tijd.
+Omdat we het klimaat zelf grotendeels in handen hebben zou het mooi zijn dit in de vorm van een Coin te kunnen vertegenwoordigen, men kan de Geocoin dan zelf in de hand houden en zich 1 voelen met het idee achter deze coin.
+<br><br>
+De industrie moet over op alternatieve energie (links op de afbeelding)
+De alternatieve bronnen zoals zon en windenergie (Rechts op de afbeelding)
+Om klimaatverandering tegen te gaan zoals uitdroging van de aarde (links onder op de afbeelding)
+Om meer groen te krijgen (rechts onder op de afbeelding)
+In het midden van de afbeelding de mensheid, zij die het “probleem” hebben gecreëerd en nu de taak hebben niet te denken maar te doen.
+<br><br>
+De achterzijden van de Dutch Geocoin onze Nederlandse vlag waar we met zijn allen toch trots op zijn
+Wapperend in de wind, boven een mooi stukje duurzame energie.
+</p>
+
+<h3>C1: Covid Counter 1</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/covidcounter1-voor.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/covidcounter1-achter.png" height="320">
+</p>
+
+<h3>C2: Covid Counter 2</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/covidcounter2-voor.png" height="320">
+<img src="https://technetium.github.io/dutch_geocoin/2021/covidcounter2-achter.png" height="320">
+</p>
+
+<h3>4S: Vier Seizoenen</h3>
+<p>
+<img src="https://technetium.github.io/dutch_geocoin/2021/vierseizoenen.png" height="320">
+</p>
+De vier seizoenen.
+Lente zomer herst winder.
+Pak je toos bij elkaar en geniet van het geocachen.
+</p>
+	<br>&nbsp;&nbsp;&nbsp;<br>
+</div>
+</div>
