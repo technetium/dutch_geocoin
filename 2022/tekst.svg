@@ -5,7 +5,7 @@
     <style>
         text { 
             font-size: 84px;
-            font-family: Trebuchet MS, Univers, Times-Roman;
+            font-family: Futura, Trebuchet MS, Univers, Times-Roman;
             _font-weight: 900; 
             letter-spacing: 0px;
         }
